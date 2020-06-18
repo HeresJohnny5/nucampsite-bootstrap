@@ -52,3 +52,7 @@ header h2 {
 #loginModal .modal-header {
   background-color: #901CAD;
   color: white; }
+
+#reserveButton {
+  background-color: red;
+}
